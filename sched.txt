@@ -1,0 +1,1053 @@
+<table border="0" cellpadding="4" cellspacing="0" class="borderwhite" id="tblListGames2" width="100%">
+ <tbody>
+  <tr>
+   <td "="" class="RowHeader" colspan="8">
+    Sat, September 8, 2012
+   </td>
+  </tr>
+  <tr>
+   <td align="center" class="textsmall GameHeader">
+    GAME#
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+    Time
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Home
+   </td>
+   <td align="center" class="textsmall GameHeader" width="5%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Away
+   </td>
+   <td align="left" class="textsmall GameHeader" width="35%">
+    Location
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2749
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    11:00 am
+   </td>
+   <td class="schedtm schedtm1" tmk="37985024">
+    Lake Oswego SC Spirit
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     0-2
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37977078">
+    FC Portland Academy 1999G Navy
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38660078+37027074+47896448">
+      Westlake Park
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2703
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    12:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37994529">
+    FC Salmon Creek FCSC Nemesis 99
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     5-2
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="49836879">
+    WT G99 Copa
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38951615+37027148+47896448">
+      Felida Park West
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2709
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    1:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37943628">
+    Willamette United SC PSV WHITE
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     3-0
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37839038">
+    BSC Portland 99G Black
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38619569+37027320+47896448">
+      Athey Creek Middile School Athey Creek #3
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2701
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    3:00 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37885107">
+    Tualatin Hills United SC Zirconium
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     2-4
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37737436">
+    EMFC 99 Athletica Blue
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38897983+37027204+47896448">
+      PCC Rock Creek West
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td "="" class="RowHeader" colspan="8">
+    Sun, September 9, 2012
+   </td>
+  </tr>
+  <tr>
+   <td align="center" class="textsmall GameHeader">
+    GAME#
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+    Time
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Home
+   </td>
+   <td align="center" class="textsmall GameHeader" width="5%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Away
+   </td>
+   <td align="left" class="textsmall GameHeader" width="35%">
+    Location
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2735
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    12:00 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="49836879">
+    WT G99 Copa
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     1-1
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37985024">
+    Lake Oswego SC Spirit
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38896380+37024870+47896448">
+      Tualatin Hills Rec Center Tualatin Hills Rec #2
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2706
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    12:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37994529">
+    FC Salmon Creek FCSC Nemesis 99
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     1-2
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37943628">
+    Willamette United SC PSV WHITE
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38951615+37027166+47896448">
+      Felida Park West
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2741
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    12:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37977078">
+    FC Portland Academy 1999G Navy
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     1-1
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37737436">
+    EMFC 99 Athletica Blue
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38843084+37027204+47896448">
+      Liberty High School Stadium
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2707
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    2:00 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37839038">
+    BSC Portland 99G Black
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     0-3
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37885107">
+    Tualatin Hills United SC Zirconium
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38742199+37027145+47896448">
+      Oregon Episcopal School Varsity
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td "="" class="RowHeader" colspan="8">
+    Sat, September 15, 2012
+   </td>
+  </tr>
+  <tr>
+   <td align="center" class="textsmall GameHeader">
+    GAME#
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+    Time
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Home
+   </td>
+   <td align="center" class="textsmall GameHeader" width="5%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Away
+   </td>
+   <td align="left" class="textsmall GameHeader" width="35%">
+    Location
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2745
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    1:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="49836879">
+    WT G99 Copa
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     2-3
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37994529">
+    FC Salmon Creek FCSC Nemesis 99
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38896380+37027362+47896448">
+      Tualatin Hills Rec Center Tualatin Hills Rec #4
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2705
+    </span>
+    <span class="gmlabel">
+    </span>
+    <img src="http://www.oregonpremierleague.com/common/images/icons/reasonYELLOW.gif"/>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    3:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37985024">
+    Lake Oswego SC Spirit
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     1-1
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37737436">
+    EMFC 99 Athletica Blue
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38659881+37027204+47896448">
+      Waluga Jr High School Waluga 2
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2722
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    4:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37885107">
+    Tualatin Hills United SC Zirconium
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     2-0
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37943628">
+    Willamette United SC PSV WHITE
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38897983+37027166+47896448">
+      PCC Rock Creek West
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td "="" class="RowHeader" colspan="8">
+    Sun, September 16, 2012
+   </td>
+  </tr>
+  <tr>
+   <td align="center" class="textsmall GameHeader">
+    GAME#
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+    Time
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Home
+   </td>
+   <td align="center" class="textsmall GameHeader" width="5%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Away
+   </td>
+   <td align="left" class="textsmall GameHeader" width="35%">
+    Location
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2725
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    8:00 am
+   </td>
+   <td class="schedtm schedtm1" tmk="37985024">
+    Lake Oswego SC Spirit
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     1-1
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37885107">
+    Tualatin Hills United SC Zirconium
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38659952+37027145+47896448">
+      Lake Oswego HS
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2714
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    9:30 am
+   </td>
+   <td class="schedtm schedtm1" tmk="37839038">
+    BSC Portland 99G Black
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     1-2
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37994529">
+    FC Salmon Creek FCSC Nemesis 99
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38742199+37027362+47896448">
+      Oregon Episcopal School Varsity
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td "="" class="RowHeader" colspan="8">
+    Sat, September 22, 2012
+   </td>
+  </tr>
+  <tr>
+   <td align="center" class="textsmall GameHeader">
+    GAME#
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+    Time
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Home
+   </td>
+   <td align="center" class="textsmall GameHeader" width="5%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Away
+   </td>
+   <td align="left" class="textsmall GameHeader" width="35%">
+    Location
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2717
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    11:00 am
+   </td>
+   <td class="schedtm schedtm1" tmk="37994529">
+    FC Salmon Creek FCSC Nemesis 99
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     2-2
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37737436">
+    EMFC 99 Athletica Blue
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38951615+37027204+47896448">
+      Felida Park West
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2718
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    11:00 am
+   </td>
+   <td class="schedtm schedtm1" tmk="37985024">
+    Lake Oswego SC Spirit
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     0-2
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37943628">
+    Willamette United SC PSV WHITE
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38660078+37027166+47896448">
+      Westlake Park
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2719
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    1:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37885107">
+    Tualatin Hills United SC Zirconium
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     3-3
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="49836879">
+    WT G99 Copa
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38896380+37027148+47896448">
+      Tualatin Hills Rec Center Tualatin Hills Rec #4
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2716
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    6:00 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37839038">
+    BSC Portland 99G Black
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     0-5
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37977078">
+    FC Portland Academy 1999G Navy
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38742199+37027074+47896448">
+      Oregon Episcopal School Varsity
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td "="" class="RowHeader" colspan="8">
+    Sun, September 23, 2012
+   </td>
+  </tr>
+  <tr>
+   <td align="center" class="textsmall GameHeader">
+    GAME#
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+    Time
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Home
+   </td>
+   <td align="center" class="textsmall GameHeader" width="5%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Away
+   </td>
+   <td align="left" class="textsmall GameHeader" width="35%">
+    Location
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2702
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    9:00 am
+   </td>
+   <td class="schedtm schedtm1" tmk="37943628">
+    Willamette United SC PSV WHITE
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     1-1
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37977078">
+    FC Portland Academy 1999G Navy
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38619569+37027074+47896448">
+      Athey Creek Middile School Athey Creek #2
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2721
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    12:00 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="49836879">
+    WT G99 Copa
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     2-1
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37839038">
+    BSC Portland 99G Black
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38896380+37027320+47896448">
+      Tualatin Hills Rec Center Tualatin Hills Rec #1
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2720
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    12:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37994529">
+    FC Salmon Creek FCSC Nemesis 99
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     2-2
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37985024">
+    Lake Oswego SC Spirit
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38951615+37024870+47896448">
+      Felida Park North
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td "="" class="RowHeader" colspan="8">
+    Sat, September 29, 2012
+   </td>
+  </tr>
+  <tr>
+   <td align="center" class="textsmall GameHeader">
+    GAME#
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+    Time
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Home
+   </td>
+   <td align="center" class="textsmall GameHeader" width="5%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Away
+   </td>
+   <td align="left" class="textsmall GameHeader" width="35%">
+    Location
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2711
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    2:00 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37977078">
+    FC Portland Academy 1999G Navy
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     0-0
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37985024">
+    Lake Oswego SC Spirit
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38843149+37024870+47896448">
+      South Meadows Middle School Main Field
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2710
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    4:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="49836879">
+    WT G99 Copa
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     2-5
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37737436">
+    EMFC 99 Athletica Blue
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38897983+37027204+47896448">
+      PCC Rock Creek East
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td "="" class="RowHeader" colspan="8">
+    Sun, September 30, 2012
+   </td>
+  </tr>
+  <tr>
+   <td align="center" class="textsmall GameHeader">
+    GAME#
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="10%">
+    Time
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Home
+   </td>
+   <td align="center" class="textsmall GameHeader" width="5%">
+   </td>
+   <td align="center" class="textsmall GameHeader" width="20%">
+    Away
+   </td>
+   <td align="left" class="textsmall GameHeader" width="35%">
+    Location
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2708
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    11:00 am
+   </td>
+   <td class="schedtm schedtm1" tmk="37994529">
+    FC Salmon Creek FCSC Nemesis 99
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     1-3
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37885107">
+    Tualatin Hills United SC Zirconium
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38951615+37027145+47896448">
+      Felida Park West
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2731
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    12:00 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="49836879">
+    WT G99 Copa
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     0-4
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37977078">
+    FC Portland Academy 1999G Navy
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38896380+37027074+47896448">
+      Tualatin Hills Rec Center Tualatin Hills Rec #1
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray1 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2728
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    12:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37839038">
+    BSC Portland 99G Black
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     0-3
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37985024">
+    Lake Oswego SC Spirit
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38742199+37024870+47896448">
+      Oregon Episcopal School Varsity
+     </a>
+    </span>
+   </td>
+  </tr>
+  <tr class="RowGray2 sch-main-gm">
+   <td class="textsmall sch-main-gmcode" nowrap="">
+    <span class="gamecode">
+     2712
+    </span>
+    <span class="gmlabel">
+    </span>
+   </td>
+   <td align="center" class="textsmall" nowrap="">
+   </td>
+   <td class="tim" width="5%">
+    2:30 pm
+   </td>
+   <td class="schedtm schedtm1" tmk="37737436">
+    EMFC 99 Athletica Blue
+   </td>
+   <td align="center" class="textsmall sch-main-sc" width="5%">
+    <span>
+     5-2
+    </span>
+   </td>
+   <td class="schedtm schedtm2" tmk="37943628">
+    Willamette United SC PSV WHITE
+   </td>
+   <td class="textsmall" nowrap="" width="35%">
+    <span class="tmcode">
+     <a href="http://www.oregonpremierleague.com/scripts/runisa.dll?M2:gp::73450+Elements/Display+E+18235+Display/+38861854+37027166+47896448">
+      Lane Community College Soccer field
+     </a>
+    </span>
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+<td "="" class="RowHeader" colspan="8">
+ Sat, September 8, 2012
+</td>
+
+Sat, September 10, 2012
+['Sat,', 'September', '10,', '2012']
+2012-09-10 00:00:00

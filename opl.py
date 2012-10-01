@@ -5,6 +5,7 @@ from datetime import datetime
 
 doc = BeautifulSoup(urllib2.urlopen("http://www.oregonpremierleague.com/schedules/Fall2012/47896539.html","html5lib"));
 
+print(doc.find("table").find(id="tblListGames2").prettify())
 print(doc.find("table").find(id="tblListGames2").find("tbody").find("tr").find("td").prettify())
 
 game_date = doc.find("table").find(id="tblListGames2").find("tbody").find("tr").find("td").text.strip()
