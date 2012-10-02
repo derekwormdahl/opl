@@ -17,71 +17,84 @@ def convert(data):
         return data
  
 
-doc = BeautifulSoup(urllib2.urlopen("http://www.oregonpremierleague.com/schedules/Fall2012/47896539.html","html5lib"));
-
-"""
-print(doc.find("table").find(id="tblListGames2").find("tbody").find("tr").find("td").prettify())
-
-game_date = doc.find("table").find(id="tblListGames2").find("tbody").find("tr").find("td").text.strip()
-
-game_date = "Sat, September 10, 2012"
-
-print game_date
-
-t = game_date.split()
-
-print t
-
-if Decimal(t[2].strip(',')) < 10: 
-	day = ''.join(['0',t[2]])
-	game_date = " ".join([t[0],t[1],day,t[3]])
-
-final_game_date = datetime.strptime(game_date, "%a, %B %d, %Y");
-
-print final_game_date
-"""
-
-#print(doc.find("table").find(id="tblListGames2").find("tbody").find_all("tr"))
+doc = BeautifulSoup(urllib2.urlopen("http://www.oregonpremierleague.com/schedules/Fall2012/47896539.20129.html","html5lib"));
 
 t = doc.find("table").find(id="tblListGames2").find("tbody")
 
-#doc3 = BeautifulSoup(open('sched2.txt'))
 
 print "*********************************************************"
-#print t.tr.next_sibling.next_sibling.next_sibling.next_sibling
-
+#print "********** Game day: ***********",t.tr['RowHeader'].td.text.strip()
 for sib in t.tr.next_siblings:
 	if not isinstance(sib, NavigableString):
-	#if(type(sib) is bs4.element.Tag):
-	#if(callable(sib.select)):
 		if(sib.select(".RowHeader")):
-			print "****** Game Day: *****",sib.td.text.strip()
-		#else:
-		# print "************ ",sib
+			gamedate = sib.td.text.strip()
+			print gamedate
+
+		gametime = ''
+		team1 = ''
+		team2 = ''
+		gamelocation = ''
+		gamelocation_url = ''
+		homescore = ''
+		awayscore = ''
+		
 		t = convert(sib.get("class",''))
 		if isinstance(t,list):
 			if(t.index('sch-main-gm') > 0):
-				print sib
-		#for tt in t:
-		#	print tt
-		"""
-		t1 = convert(sib.attrs)
-		if t1.has_key('class'):
-			print t1['class']
-			"""
-		#print 'class' in sib.attrMap
-		#if((sib.get("class")).contains("sch-main-gm")):
-		#	print "    game"#,g.td.span.text
-	#print "Sib: ",sib," Type: ",type(sib)
+				for td in sib.find_all('td'):
+					try:
+						# print "Class:",td
+						if 'gamecode' in td.span['class']:
+							gamecode = td.span.text.strip()
+					except KeyError:
+						pass
+					except TypeError:
+						pass
+					try:
+						if 'tim' in td['class']:
+							gametime = td.text.strip()
+					except KeyError:
+						pass
+					except TypeError:
+						pass
+					try:
+						if 'schedtm1' in td['class']:
+							team1 = td.text.strip()
+					except KeyError:
+						pass
+					except TypeError:
+						pass
+					try:
+						if 'schedtm2' in td['class']:
+							team2 = td.text.strip()
+					except KeyError:
+						pass
+					except TypeError:
+						pass
+					try:
+						if 'tmcode' in td.span['class']:
+							gamelocation = td.text.strip()
+							gamelocation_url = td.span.a['href']
+					except KeyError:
+						pass
+					except TypeError:
+						pass
+					try:
+						if 'sch-main-sc' in td['class']:
+							if td.text.strip() != 'vs':
+								homescore = td.text.strip().split('-')[0]
+								awayscore = td.text.strip().split('-')[1]
+					except KeyError:
+						pass
+					except TypeError:
+						pass
+			print "    ",gamecode
+			print "    ",gametime
+			print "    ",team1
+			print "    ",team2
+			print "    ",gamelocation
+			print "    ",gamelocation_url
+			print "    ",homescore
+			print "    ",awayscore
+					
 
-
-
-"""
-gamedays = doc.findAll('td', {'class':'RowHeader'})
-for gameday in gamedays:
-	print gameday.string
-
-
-print doc2.tr.next_sibling
-
-"""
