@@ -1,4 +1,7 @@
 import sqlite3
+import collections
+from ordereddict import OrderedDict
+import json
 
 conn = sqlite3.connect('opl.db')
 
@@ -27,10 +30,20 @@ def create_gameday(gamedate):
 def select_gameday():
 	conn = sqlite3.connect('opl.db')
 	c = conn.cursor()
-	c.execute("select * from gameday")
-	for r in c:
-		print r
-	
+	c.execute("select id, gamedate, created_date, last_updated_date  from gameday")
+	rows = c.fetchall()
+
+	rowarray_list = []
+	for r in rows:
+		t = OrderedDict()
+		t['id'] = r[0]
+		t['gamedate'] = r[1]
+		t['created_date'] = r[2]
+		t['last_updated_date'] = r[3]
+		rowarray_list.append(t)
+
+	j = json.dumps(rowarray_list)
+	print j	
 
 def create_game(gamecode, gameday_id, gametime, hometeam, awayteam, homescore, awayscore, gamelocation, gamelocation_url, gamelocation_coords):
 	conn = sqlite3.connect('opl.db')
@@ -46,9 +59,29 @@ def create_game(gamecode, gameday_id, gametime, hometeam, awayteam, homescore, a
 def select_game():
 	conn = sqlite3.connect('opl.db')
 	c = conn.cursor()
-	c.execute("select * from game")
-	for r in c:
-		print r
+	c.execute("select id, gamecode, gameday_id, gametime, hometeam, awayteam, homescore, awayscore, gamelocation, gamelocation_url, gamelocation_coords, created_date, last_updated_date from game")
+	rows = c.fetchall()
+
+	rowarray_list = []
+	for r in rows:
+		t = OrderedDict()
+		t['id'] = r[0]
+		t['gamecode'] = r[1]
+		t['gameday_id'] = r[2]
+		t['gametime'] = r[3]
+		t['hometeam'] = r[4]
+		t['awayteam'] = r[5]
+		t['homescore'] = r[6]
+		t['awayscore'] = r[7]
+		t['gamelocation'] = r[8]
+		t['gamelocation_url'] = r[9]
+		t['gamelocation_coords'] = r[10]
+		t['created_date'] = r[11]
+		t['last_updated_date'] = r[12]
+		rowarray_list.append(t)
+
+	j = json.dumps(rowarray_list)
+	print j	
 
 """
 

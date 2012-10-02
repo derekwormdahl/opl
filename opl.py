@@ -50,6 +50,10 @@ t = doc.find("table").find(id="tblListGames2").find("tbody")
 print "*********************************************************"
 #print t.tr.next_sibling.next_sibling.next_sibling.next_sibling
 
+
+if 'RowHeader' in t.tr.td['class']:
+	print t.tr.td.text.strip()
+
 for sib in t.tr.next_siblings:
 	if not isinstance(sib, NavigableString):
 	#if(type(sib) is bs4.element.Tag):
@@ -58,10 +62,6 @@ for sib in t.tr.next_siblings:
 			print "****** Game Day: *****",sib.td.text.strip()
 		#else:
 		# print "************ ",sib
-		t = convert(sib.get("class",''))
-		if isinstance(t,list):
-			if(t.index('sch-main-gm') > 0):
-				print sib
 		#for tt in t:
 		#	print tt
 		"""
