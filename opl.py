@@ -43,6 +43,10 @@ for sib in t.tr.next_siblings:
 	#if(callable(sib.select)):
 		if(sib.select(".RowHeader")):
 			print "Found Row Header"
+		#else:
+		#	print "************ ",sib
+		if(sib(class_="sch-main-gm")):
+			print "    game"#,g.td.span.text
 	#print "Sib: ",sib," Type: ",type(sib)
 
 
