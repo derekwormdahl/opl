@@ -10,6 +10,8 @@ c.execute('''create table game
 	(id integer primary key autoincrement, gamecode text, gameday_id integer, 
 	gametime text, hometeam text, awayteam text, homescore integer, awayscore integer,
 	gamelocation text, gamelocation_url text, gamelocation_coords text, created_date text, last_updated_date text)''')  
+c.execute('''create table division (id integer primary key autoincrement, gender text, age integer, title text, url text, created_date text, last_updated_date text)''')
+
 """
 
 c.execute("insert into gameday (gamedate) values ('Sat, September 9, 2012')")

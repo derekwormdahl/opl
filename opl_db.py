@@ -83,7 +83,40 @@ def select_game():
 	j = json.dumps(rowarray_list)
 	print j	
 
+c.execute('''create table division (id integer primary key autoincrement, gender text, age integer, title text, url text, created_date text, last_updated_date text)''')
+def create_division(gender, age, title, url):
+	conn = sqlite3.connect('opl.db')
+	c = conn.cursor()
+	c.execute("""insert into division (gender, age, title, url) values (?,?,?,?)""", (gender, age, title, url))
+	conn.commit()
+	c.execute("""select last_insert_rowid() from division""")
+	rowid = c.fetchone()
+	c.close()
+	conn.close()
+	return rowid[0]
+
+def select_division():
+	conn = sqlite3.connect('opl.db')
+	c = conn.cursor()
+	c.execute("select id, gender, age, title, url, created_date, last_updated_date from division")
+	rows = c.fetchall()
+
+	rowarray_list = []
+	for r in rows:
+		t = OrderedDict()
+		t['id'] = r[0]
+		t['gender'] = r[1]
+		t['age'] = r[2]
+		t['title'] = r[3]
+		t['url'] = r[4]
+		t['created_date'] = r[5]
+		t['last_updated_date'] = r[6]
+		rowarray_list.append(t)
+
+	j = json.dumps(rowarray_list)
+	print j	
 """
+c.execute('''create table division (id integer primary key autoincrement, gender text, age integer, title text, url text, created_date text, last_updated_date text)''')
 
 c.execute("insert into gameday (gamedate) values ('Sat, September 9, 2012')")
 
